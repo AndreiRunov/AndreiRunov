@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This repository is created as solution for the Lesson 1 HW 1 Ex 2
 
 <!--
 **AndreiRunov/AndreiRunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
